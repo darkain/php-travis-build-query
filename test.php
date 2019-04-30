@@ -62,7 +62,7 @@ $out = [
 	),
 
 	query(
-		['x' => 'a test'],
+		['x' => 'a test']
 	),
 
 	ini_get('arg_separator.output'),
